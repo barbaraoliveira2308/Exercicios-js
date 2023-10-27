@@ -1,0 +1,30 @@
+body{
+    background-color: bisque;
+    font:normal
+}
+header{
+    color: #e4db93;
+    text-align: center;
+}
+section{
+    background-color: rgb(247, 219, 198);
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0,0, 0, 0.360);
+
+}
+div{
+    text-align: center;
+    padding: 30px;
+    box-shadow: 3px 3px 10px rgba(0,0, 0, 0.360);
+}
+footer{
+ text-align: center;
+ color: white;
+}
+img{
+    border-radius: 90px;
+
+}
